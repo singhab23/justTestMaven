@@ -9,5 +9,6 @@ public class myFirstRun {
     {
         System.out.println("My name is Abhishek");
         System.out.println("What is my name");
+        //This has to be the most simplest way
     }
 }
